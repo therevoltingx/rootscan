@@ -1,0 +1,8 @@
+Description 
+Rootscan is a multi-threaded (using posix threads), console, port scanner.
+Heavily under development. Usually the uploaded source code is not the latest.
+Currently the code only compiles under Linux.
+Windows support will come later.
+
+Scan types currently supported: TCP, SYN, UDP, FIN, (the last three are still beta) 
+
